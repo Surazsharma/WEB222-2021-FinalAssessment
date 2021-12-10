@@ -1,0 +1,20 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ .required {
+    color: rgb(255, 80, 80);
+  }
+  
+  #obsv_pName {
+    width: 60%;
+  }
+  
+  #obsv_pEmail {
+    width: 60%;
+  }
+  
+  #obsv_photo {
+    width: 350%;
+  }
+  
